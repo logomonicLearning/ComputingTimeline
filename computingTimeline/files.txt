@@ -1,0 +1,12 @@
+total 132
+drwxr-xr-x 2 user user  4096 Mar 30 07:00 .
+drwxr-xr-x 5 user user  4096 Mar 29 13:38 ..
+-rw-r--r-- 1 user user 30268 Mar 28 11:12 data.json
+-rw-r--r-- 1 user user  3615 Mar 28 06:49 electricityResearch
+-rw-r--r-- 1 user user     0 Mar 30 07:00 files.txt
+-rw-r--r-- 1 user user   855 Mar 26 06:44 index.html
+-rw-r--r-- 1 user user   366 Mar 25 19:55 logic.js
+-rw-r--r-- 1 user user 44782 Mar 29 21:22 research.md
+-rw-r--r-- 1 user user  3857 Mar 29 07:57 researchSummary
+-rw-r--r-- 1 user user 25350 Mar 25 12:03 timeline-embed-cdn.js
+-rw-r--r-- 1 user user  1133 Mar 30 06:58 topMicroProcessors.md

@@ -1,0 +1,40 @@
+# [(7) A Brief History of Artificial Intelligence - YouTube](https://www.youtube.com/watch?v=056v4OxKwlI)
+
+- 1950
+	- turing test
+	- 3 laws of robotics
+- 1951
+	- first ai program
+- 1955
+	- first self learning playing ai
+- 1959
+	- mit ai lab
+- 1961
+	- first gm robots
+	- 1964
+- 	first NLP
+- 1965
+	- eliza chatbot
+- 1974
+	- first autonomous vehicle
+- 1989
+	- first autonomous using neural network
+- 1997
+	- ibm deep blue defeats kasparov
+- 1999
+	- sony released ibo robot dog
+- 2004
+	- darpa challenge
+- 2009
+	- google self driving car
+- 2010
+	- narrative sciences writes reports
+- 2011
+	- ibm watson beats champs in jeopardy
+	- siri and cortana
+- 2015
+	- elon musk 1bn to open ai
+- 2016
+	- deep mind alphago 
+	- stanford ai 100 report
+	- uc berkley center for human compatible ai 
